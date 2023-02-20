@@ -18,12 +18,21 @@ float:  left;
 
 .section{
     margin-bottom: 70px;
+    text-align: justify;
 }
 
 .sec-left{
     float: left;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .sec-low{
     margin-left: 150px;
+}
+
+h2{
+    font-size: 28px;
+    color: #3388BB;
+    border-bottom: 3px solid #3388DD;
 }
