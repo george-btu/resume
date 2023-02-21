@@ -24,11 +24,13 @@ float:  left;
 .sec-left{
     float: left;
     font-weight: bold;
+    
     font-size: 20px;
 }
 
-.sec-low{
+.sec-right{
     margin-left: 150px;
+    margin-top: 34px;
 }
 
 h2{
@@ -46,4 +48,8 @@ h2{
     font-weight: bold;
     font-size: 20px;
     
+}
+
+#forma-left p{
+    margin-bottom: 55px;
 }
